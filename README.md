@@ -5,6 +5,11 @@ In this project, I have made a simulation of the disaster recovery system for a 
 
 ![Vis Diagram](https://i.ibb.co/w0shtZh/VisDig.jpg)
 
+# PyGame Implementation Images 
+
+![Main Screen](https://i.ibb.co/LdpykPj/mainscreen.jpg)
+![DB Screen](https://i.ibb.co/TrJqzNb/dbscreen.jpg)
+
 # Disaster.py 
 
 Has a `Disaster` class which has methods to: Backup, Recover, Simulating an Earthquake (of different severities) and simulating an Information Breach 
