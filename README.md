@@ -3,7 +3,7 @@ In this project, I have made a simulation of the disaster recovery system for a 
 
 # VISUALIZATION DIAGRAM: 
 
-![Vis Diagram](https://i.ibb.co/rw7bfrk/transaction.png)
+![Vis Diagram](https://i.ibb.co/w0shtZh/VisDig.jpg)
 
 # Disaster.py 
 
